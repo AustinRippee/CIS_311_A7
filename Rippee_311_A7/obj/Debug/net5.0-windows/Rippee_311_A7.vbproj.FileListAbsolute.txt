@@ -1,0 +1,20 @@
+C:\Users\Austin Rippee\source\repos\Rippee_311_A7\Rippee_311_A7\obj\Debug\net5.0-windows\Rippee_311_A7.vbproj.AssemblyReference.cache
+C:\Users\Austin Rippee\source\repos\Rippee_311_A7\Rippee_311_A7\obj\Debug\net5.0-windows\Rippee_311_A7.vbproj.GenerateResource.cache
+C:\Users\Austin Rippee\source\repos\Rippee_311_A7\Rippee_311_A7\obj\Debug\net5.0-windows\Rippee_311_A7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin Rippee\source\repos\Rippee_311_A7\Rippee_311_A7\obj\Debug\net5.0-windows\Rippee_311_A7.AssemblyInfoInputs.cache
+C:\Users\Austin Rippee\source\repos\Rippee_311_A7\Rippee_311_A7\obj\Debug\net5.0-windows\Rippee_311_A7.AssemblyInfo.vb
+C:\Users\Austin Rippee\source\repos\Rippee_311_A7\Rippee_311_A7\obj\Debug\net5.0-windows\Rippee_311_A7.vbproj.CoreCompileInputs.cache
+C:\Users\Austin Rippee\source\repos\Rippee_311_A7\Rippee_311_A7\obj\Debug\net5.0-windows\Rippee_311_A7.genruntimeconfig.cache
+C:\Users\Austin Rippee\source\repos\Rippee_311_A7\Rippee_311_A7\obj\Debug\net5.0-windows\Rippee_311_A7.frmChezSouSad.resources
+C:\Users\Austin Rippee\source\repos\Rippee_311_A7\Rippee_311_A7\obj\Debug\net5.0-windows\Rippee_311_A7.frmSplash.resources
+C:\Users\Austin Rippee\source\repos\Rippee_311_A7\Rippee_311_A7\bin\Debug\net5.0-windows\Assignment 7.exe
+C:\Users\Austin Rippee\source\repos\Rippee_311_A7\Rippee_311_A7\bin\Debug\net5.0-windows\Assignment 7.deps.json
+C:\Users\Austin Rippee\source\repos\Rippee_311_A7\Rippee_311_A7\bin\Debug\net5.0-windows\Assignment 7.runtimeconfig.json
+C:\Users\Austin Rippee\source\repos\Rippee_311_A7\Rippee_311_A7\bin\Debug\net5.0-windows\Assignment 7.runtimeconfig.dev.json
+C:\Users\Austin Rippee\source\repos\Rippee_311_A7\Rippee_311_A7\bin\Debug\net5.0-windows\Assignment 7.dll
+C:\Users\Austin Rippee\source\repos\Rippee_311_A7\Rippee_311_A7\bin\Debug\net5.0-windows\ref\Assignment 7.dll
+C:\Users\Austin Rippee\source\repos\Rippee_311_A7\Rippee_311_A7\bin\Debug\net5.0-windows\Assignment 7.pdb
+C:\Users\Austin Rippee\source\repos\Rippee_311_A7\Rippee_311_A7\obj\Debug\net5.0-windows\Assignment 7.dll
+C:\Users\Austin Rippee\source\repos\Rippee_311_A7\Rippee_311_A7\obj\Debug\net5.0-windows\ref\Assignment 7.dll
+C:\Users\Austin Rippee\source\repos\Rippee_311_A7\Rippee_311_A7\obj\Debug\net5.0-windows\Assignment 7.pdb
+C:\Users\Austin Rippee\source\repos\Rippee_311_A7\Rippee_311_A7\obj\Debug\net5.0-windows\Rippee_311_A7.Resources.resources
